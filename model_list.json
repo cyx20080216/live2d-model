@@ -155,8 +155,38 @@
             "Potion-Maker/Tia/whiteday-costume-purple.json",
             "Potion-Maker/Tia/whiteday-costume-red.json"
         ],
-        "bilibili-live/22/index.json",
-        "bilibili-live/33/index.json",
+        [
+            "bilibili-live/22/default.json",
+            "bilibili-live/22/cba-normal.json",
+            "bilibili-live/22/cba-super.json",
+            "bilibili-live/22/newyear.json",
+            "bilibili-live/22/school2017.json",
+            "bilibili-live/22/spring-2018.json",
+            "bilibili-live/22/summer2017-high.json",
+            "bilibili-live/22/summer2017-low.json",
+            "bilibili-live/22/tomo-high.json",
+            "bilibili-live/22/tomo-low.json",
+            "bilibili-live/22/valley2017.json",
+            "bilibili-live/22/vdays.json",
+            "bilibili-live/22/xmas-headwear.json",
+            "bilibili-live/22/xmas.json"
+        ],
+        [
+            "bilibili-live/33/default.json",
+            "bilibili-live/33/cba-normal.json",
+            "bilibili-live/33/cba-super.json",
+            "bilibili-live/33/newyear.json",
+            "bilibili-live/33/school2017.json",
+            "bilibili-live/33/spring-2018.json",
+            "bilibili-live/33/summer2017-high.json",
+            "bilibili-live/33/summer2017-low.json",
+            "bilibili-live/33/tomo-high.json",
+            "bilibili-live/33/tomo-low.json",
+            "bilibili-live/33/valley2017.json",
+            "bilibili-live/33/vdays.json",
+            "bilibili-live/33/xmas-headwear.json",
+            "bilibili-live/33/xmas.json"
+        ],
         [
             "ShizukuTalk/shizuku-48/index.json",
             "ShizukuTalk/shizuku-pajama/index.json"
